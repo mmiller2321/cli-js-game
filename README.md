@@ -1,15 +1,8 @@
-# CLI-JS-Game
-This is a NPM game run through the CLI.
+# JavaScript Millionaire CLI Tool
+This is a JavaScript Quiz that is run through the CLI once installed 
 
-## Installation
-
-1. Install the package
-
-    ```npm i cli-js-game```
-2. Run the game
-
-    ```node . ```
-
+## Take the Quiz
+    ```npx cli-js-game```
 
 ## Packages Used
 
