@@ -1,5 +1,5 @@
 {
-  "name": "cli-tool",
+  "name": "cli-js-game",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Micah Miller",
   "license": "ISC",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^5.0.0",
     "chalk-animation": "^1.6.0",
