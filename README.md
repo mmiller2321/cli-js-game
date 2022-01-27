@@ -16,19 +16,19 @@ This is a NPM game run through the CLI.
     <img src="https://user-images.githubusercontent.com/40038829/151455979-094da82f-90c8-4373-abdd-5136e3a3acb8.png" width=65% height=65%>
 </p>
 <p align="center">
-    <img src="URL" width=65% height=65%>
+    <img src="https://user-images.githubusercontent.com/40038829/151456075-61ecf8f7-3a3e-489b-8a0f-76a9315d3ddd.png" width=65% height=65%>
 </p>
 <p align="center">
-    <img src="URL" width=65% height=65%>
+    <img src="https://user-images.githubusercontent.com/40038829/151456134-2de28e0c-8395-420a-87a5-cd86659eae3d.png" width=65% height=65%>
 </p>
 <p align="center">
-    <img src="URL" width=65% height=65%>
+    <img src="https://user-images.githubusercontent.com/40038829/151456211-e29ec66d-4cba-4a33-8ea9-4f8277d72ea6.png" width=65% height=65%>
 </p>
 <p align="center">
     <img src="URL" width=65% height=65%>
 </p>
 
-
+![Uploading image.png…]()
 
 
 ## Packages Used
