@@ -2,7 +2,10 @@
 This is a JavaScript Quiz that is run through the CLI once installed 
 
 ## Take the Quiz
-    ```npx cli-js-game```
+
+```
+npx cli-js-game
+```
 
 ## Packages Used
 
