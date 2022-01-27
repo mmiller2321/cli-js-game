@@ -10,6 +10,10 @@ This is a NPM game run through the CLI.
 
     ```node . ```
 
+## Sameple Screenshots
+
+
+
 ## Packages Used
 
 [chalk](https://github.com/chalk/chalk) | 
