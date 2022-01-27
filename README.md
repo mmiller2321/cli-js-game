@@ -13,7 +13,7 @@ This is a NPM game run through the CLI.
 ## Sameple Screenshots
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/40038829/151455792-452e7766-158f-4d7b-87b5-7ed58959a128.png" width=65% height=65%>
+    <img src="https://user-images.githubusercontent.com/40038829/151455979-094da82f-90c8-4373-abdd-5136e3a3acb8.png" width=65% height=65%>
 </p>
 <p align="center">
     <img src="URL" width=65% height=65%>
