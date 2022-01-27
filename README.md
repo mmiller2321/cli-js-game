@@ -1,5 +1,5 @@
 # JavaScript Millionaire CLI Tool
-This is a JavaScript Quiz that is run through the CLI once installed 
+This is a JavaScript Quiz that is run through the CLI once executed. 
 
 ## Take the Quiz
 
